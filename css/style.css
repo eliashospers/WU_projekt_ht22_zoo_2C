@@ -1,5 +1,17 @@
 header{
+    display:flex;
     background-color: rgb(228, 98, 0);
     height: 100px;
-    position:relative;
+    
+
+}
+.icons{
+
+    display:flex
+    
+}
+
+h1 {
+    margin-left:200px;
+    margin-top: 50px;
 }
